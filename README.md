@@ -1,5 +1,5 @@
 # Time Series Prediction of Logistics Traffic by Road
-Code of the 'Time series prediction of logistics traffic by road' task developed for the '2022 Global Startup Academy'
+Baseline of the 'Time series prediction of logistics traffic by road' task developed for the '2022 Global Startup Academy'
 
 ### 2022 Global Startup Academy
 AI education and acceleration support projects for startups run by KOSME(Korea SMEs and Startups Agency)
